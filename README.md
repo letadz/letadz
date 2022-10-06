@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark Angelo Letada</h1>
 <h3 align="center">A passionate Front-end Developer from Philippines</h3>
 
-<img align="right" alt="Programmer" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<img align="center" alt="Programmer" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letadz&label=Profile%20views&color=0e75b6&style=flat" alt="letadz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letadz" alt="letadz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrkngl1_" target="blank"><img src="https://img.shields.io/twitter/follow/mrkngl1_?logo=twitter&style=for-the-badge" alt="mrkngl1_" /></a> </p>
 
