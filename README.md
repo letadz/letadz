@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Angelo Letada</h1>
 <h3 align="center">A passionate Front-end Developer from Philippines</h3>
 
-<img align="center" alt="Programmer" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Programmer" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letadz&label=Profile%20views&color=0e75b6&style=flat" alt="letadz" /> </p>
 
