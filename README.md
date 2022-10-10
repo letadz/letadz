@@ -19,9 +19,9 @@
 - ⚡ Fun fact **I think I am Funny**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrkngl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/letadz)
+<p align="left"> <a href="https://instagram.com/mrkngl_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mrkngl1_" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/letadz" target="blank"><img src="https://img.shields.io/linkedin/follow/letadz?logo=linkedin&style=for-the-badge" alt="mrkngl1_" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/letadz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mrkngl1_" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrkngl1_" target="blank"><img src="https://img.shields.io/twitter/follow/mrkngl1_?logo=twitter&style=for-the-badge" alt="mrkngl1_" /></a> </p>
 
