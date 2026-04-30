@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-letadz.vercel.app" target="_blank">https://portfolio-letadz.vercel.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://letadz.vercel.app/" target="_blank">https://letadz.vercel.app/</a>
 
 - 📫 How to reach me **mrkngl.letada@gmail.com**
 
